@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Framework = 'autodetect' -- esx, qbcore, standalone or autodetect
+Config.Framework = 'qbcore' -- esx, qbcore, standalone or autodetect
 
 Config.Command = 'vinewood' -- Command to open the menu
 
@@ -9,7 +9,7 @@ Config.AuthorizedGroups = {
         'admin'
     },
     identifier = { -- Only for standalone
-        'discord:638415863682170881'
+        'discord:557706198644949002'
     }
 }
 
